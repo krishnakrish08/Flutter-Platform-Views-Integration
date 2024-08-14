@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This is project is in initial stage. 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
