@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-This is project is in initial stage. 
+This is project is in initial stage and it contains few bugs. 
 
 ## Getting Started
 
