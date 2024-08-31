@@ -1,6 +1,11 @@
 # flutter_platform_views_integration
 
-A new Flutter project.
+This Project is used to create native platform view and integrate in Android and iOS.
+
+We can view the UI is respective platforms. 
+
+## ToDo:
+1. Need to fix communication from native to dart
 
 ## Getting Started
 
