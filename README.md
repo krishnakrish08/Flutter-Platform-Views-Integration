@@ -7,7 +7,10 @@ We can view the UI is respective platforms.
 ## ToDo:
 1. Need to fix communication from native to dart
 
-Difference between Method Chanel and Platform Channel
+
+..........................................................................................................................
+
+## Difference between Method Chanel and Platform Channel
 
 Method Channel: This is a specific type of Platform Channel used to communicate between Flutter and the host platform (iOS or Android) using method calls. It allows you to invoke methods on the native side and get results back.
 
